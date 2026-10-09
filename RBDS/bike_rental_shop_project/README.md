@@ -1,0 +1,1 @@
+I learned how to design and manage a PostgreSQL relational database by structuring tables, primary/foreign keys, and data relationships to track customers, rentals, and bike inventory. Additionally, I learned how to integrate SQL queries into an interactive Bash script, allowing terminal users to dynamically query, insert, and update database records seamlessly.
